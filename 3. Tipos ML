@@ -1,0 +1,12 @@
+3.  Tipos de ML
+3.1. Aprendizaje supervisado 
+El primer tipo de Machine Learning es el supervisado, este utiliza un método donde un modelo se entrena utilizando datos que ya cuentan con etiquetas o variables objetivo, por ejemplo, 
+en un grupo de correos electrónicos serían las marcas de “spam” y “no spam”. Recolectando y analizando esta información, la maquina realizara comparaciones entre sus predicciones y los 
+resultados reales para ajustarse y alcanzar un nivel máximo de precisión. Este método es usado en contextos empresariales y científicos, ya que permite realizar pronósticos basados en los 
+patrones que se identifican en los datos. 
+
+Existen algoritmos dentro del aprendizaje supervisado que se utilizan según la naturaleza del problema. Aquí se encuentran los algoritmos de regresión, los cuales son capaces de prever 
+valores numéricos o continuos, por ejemplo, estimar el precio de una casa (siendo esta la variable objetivo) basándose en factores como el área en metros cuadrados, la cantidad de 
+habitaciones y la zona geográfica; además, están los algoritmos de clasificación que se dedican a reconocer categorías o etiquetas, un ejemplo de este tipo puede ser un modelo entrenado 
+con información de pacientes de un hospital, recibiendo de esta forma características como la edad, el peso, la presión arterial, los niveles de colesterol, etc. Con estos datos, 
+el algoritmo adquirirá la capacidad de reconocer patrones de riesgo de sus usuarios siendo “enfermo” o “sano” la variable objetivo.
