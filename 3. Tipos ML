@@ -10,3 +10,17 @@ valores numéricos o continuos, por ejemplo, estimar el precio de una casa (sien
 habitaciones y la zona geográfica; además, están los algoritmos de clasificación que se dedican a reconocer categorías o etiquetas, un ejemplo de este tipo puede ser un modelo entrenado 
 con información de pacientes de un hospital, recibiendo de esta forma características como la edad, el peso, la presión arterial, los niveles de colesterol, etc. Con estos datos, 
 el algoritmo adquirirá la capacidad de reconocer patrones de riesgo de sus usuarios siendo “enfermo” o “sano” la variable objetivo.
+
+3.2. Aprendizaje no supervisado 
+El segundo tipo de machine learning son los no supervisados los cuales se ocupan de datos que no están etiquetados. Esto implica que 
+la maquina no recibe respuestas predeterminadas, sino que tiene que encontrar por si misma patrones escondidos, similitudes o conexiones. 
+Este método es valioso cuando no se cuenta con variables objetivo y se desea explorar la información, identificar relaciones en grandes 
+cantidades de datos o agrupar elementos con características similares. 
+
+Dentro de sus algoritmos mas importantes podemos encontrar el k-means que tiene su principal funcionamiento para clustering, es decir, 
+agrupa y clasifica datos de acuerdo a su similitud; por ejemplo, una tienda online puede usarlo para dividir a sus clientes en categorías 
+según sus comportamientos de compra, como compradores constantes, los que buscan ofertas o los que adquieren productos de alta calidad. 
+Otro algoritmo es el análisis de componentes principales (PCA) que disminuye la cantidad de dimensiones por lo que simplifica 
+la información en elementos principales que conservan gran parte de la información; un ejemplo que podemos encontrar es en el 
+reconocimiento de imágenes, para reducir el número de pixeles sin perder detalles importantes y de esta manera identificar 
+eficientemente objetos o rostros.
