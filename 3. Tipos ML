@@ -24,3 +24,15 @@ Otro algoritmo es el análisis de componentes principales (PCA) que disminuye la
 la información en elementos principales que conservan gran parte de la información; un ejemplo que podemos encontrar es en el 
 reconocimiento de imágenes, para reducir el número de pixeles sin perder detalles importantes y de esta manera identificar 
 eficientemente objetos o rostros.
+
+3.3. Aprendizaje por refuerzo 
+Como tercer tipo de Machine Learning podemos encontrar el aprendizaje por refuerzo que toma como modelo la forma en que los humanos 
+adquieren conocimientos, en el que un agente se relaciona con su entorno y aprende mediante un sistema de premios y sanciones. 
+Esta optimiza sus elecciones basándose en la experiencia adquirida por lo que es eficaz en entornos que simulen o posean grandes 
+cantidades de información como la robótica y el manejo de sistemas dinámicos. 
+
+Sus algoritmos más destacados podrían tratarse del Q-Learning que se basa en descubrir una política optima de acciones al evaluar 
+las recompensas futuras que puede esperar. Por ejemplo, un dron que es puesto a prueba para buscar la mejor ruta de entrega y siendo 
+recompensado al optimizar el tiempo y su consumo de energía. Otro algoritmo es el Temporal Difference que prevé próximas recompensas a 
+partir del análisis de repetidas predicciones, un ejemplo son semáforos inteligentes que se ajusten progresivamente a medida que tome en 
+cuenta condiciones en tiempo real como el tráfico. 
